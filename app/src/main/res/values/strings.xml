@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickSweep</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about_us">"		当您进入商场，看到提供一个免费的WiFi，却无奈不知道密码，还需要咨询柜台，快扫帮您解决这个尴尬，扫一扫，快速自动连接WIFI。"</string>
+
+</resources>
